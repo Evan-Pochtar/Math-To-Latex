@@ -1,0 +1,100 @@
+02c82a919e114b86.png	\Psi(\rho,\phi,z)
+0606da46464a5804.png	E_{1}=\tfrac{1}{2}
+05882db6930f636c.png	\Rightarrow ln\frac{x(t)}{x(0)}=kt
+00874649f83c08b3.png	{\underline P}X = \emptyset
+050f08e2fe6fe162.png	M=\mathbb{R}^{n}
+01e8ffa2afd3ae8e.png	\iint_{R}(x^{2}+z^{2})dS
+06186bea537734a2.png	x,y\in \mathbb{Z}+\mathbb{Z}\sqrt{10}
+02a7f7f172671fb4.png	F_{out}d_{out}=\eta F_{in}d_{in}
+0443cdf212ee67b1.png	t=\frac{0}{\sqrt{0+\tfrac{u^{2}}{c^{2}}}}\kappa
+010c427bf30599d3.png	\Delta S{{=}}\oint \frac{\delta Q}{T}
+01f2f6142ec1c97f.png	E\mapsto \int_E f d\mu
+020ebba0c00073be.png	\epsilon_{2}=\lambda^{\lambda^{\lambda^{\cdot^{\cdot^{\cdot}}}}}
+0491ecbb62f31a6e.png	\overline K_n
+02f5816611877c27.png	\frac{\Delta f}{f}\simeq -\frac{v\cos\theta}{c}
+046fde10ad80f6f4.png	\tilde{{\Sigma }}=V\otimes \Sigma
+01d4ae95eb9e94c8.png	O(F)\hookrightarrow g^{*}
+05373ec225cc541a.png	f=g\left(\theta^{\prime}\right)
+05fa73b7807336c8.png	\frac{d}{dt}\frac{\partial R}{\partial \dot{\zeta}_{j}}=\frac{\partial R}{\partial \zeta_{j}}
+0667cabda0ae2b81.png	\Xi(p)=\frac{e^{-\frac{p^{3}}{3}}}{\sqrt{3\pi}}
+033bbf63000c086d.png	\overline{Y}_{1}
+01a043f03146f76c.png	\lambda:A\longrightarrow A^{\vee}
+04fc707abea3e7a1.png	\mathbf{B}=\mathbf{\nabla}\times \hat{\mathbf{A}}
+0668dd347d600906.png	\frac{d\theta}{dt}=\omega
+032e674bf4a61ff0.png	2(\sqrt{2}-1)\approx 0.828
+06b2711e539715e0.png	\Leftrightarrow 1 -\frac{1}{r}<\left[\frac{m}{r}\right]_{1}
+000aa4c444cba3f2.png	\vartheta =-\frac{\log \frac{\phi_{\varsigma_{1}}}{\phi_{\varsigma_{2}}}}{\log \frac{\varsigma_{1}}{\varsigma_{2}}}
+02210ec4545e3b0a.png	l_{2}\equiv\partial_{xy}+\frac{1}{x+y}\partial_{y}
+073036bdd616605d.png	x\# = \prod_{p \leq x} p
+047ce2586c0b5f0c.png	\xi=\frac{x}{2 \sqrt{t}}
+01650d074915628e.png	i_{Q}\colon Q\hookrightarrow E
+067a327b0c92095f.png	\underline{x} \in \mathbb{R}^n
+02f72a386327c6d9.png	P(\omega)=\frac{2}{3}\omega^{4}|d_{i}|^{2}
+032130fddec53c78.png	\mathbf{P}\in \mathbb{R}^{2k\times d}
+0703652c7a0c26f7.png	G(Y^{\prime})=G(Y)\oplus R
+03d01506fe3647c4.png	f_{n}:S\to \mathbb{C}
+03474b3d9a7ae87b.png	B' \in \binom{C}{B}
+059ac88233086bc0.png	f(w)\Vdash^{\prime}p
+025f579aa67dfd7c.png	\{A_i \mid i \in \underline{m} \backslash A\}
+051a9b215ce2f7dc.png	\overline{S_n} = a \mathbb{I}\{S_n > a\}
+018cd2d904174062.png	\frac{1+\frac{n}{c}\cos\iota_{s}}{\sqrt{1\cdot\frac{n^{3}}{c^{3}}}}
+02229a0c174d8dbe.png	d\approx \sqrt{2 \cdot k\cdot R\cdot h}
+05c704f21b802507.png	\iint\limits_{S} F dS
+032cab7514e408ba.png	\hat{\mu}_3 = 56/3=18.67
+03bd51165a1a81b1.png	\frac{\mathrm{A}(\mathrm{O}\cap\mathrm{P})}{\mathrm{A}(\mathrm{P})}
+01d4536a52886b73.png	N_{0}||X-\widehat{X}||^{2}/2
+04852f06a82865c1.png	\frac{\partial \Pi}{\partial x_j}
+021aff768b53ac50.png	\nu(A)=\int_A f_n d\mu
+004970a2ad0fcb27.png	\Phi=\int E\left({\hat{e}}_{\angle}\cdot dA\right)
+063aa42f5d0ef5be.png	e^{\left(\frac{\Upsilon}{\phi}\right)\left[1-\sqrt{1-\frac{5\phi^{5}m}{\Upsilon}}\right]}
+0578f6b97d18358a.png	U=-m\sum G\frac{M}{r}
+04aeed012ef93461.png	n=\frac{M_{1} -M_{0}}{t}
+059225965e1e5dd6.png	\frac{1}{16}\left[\begin{array}{ccccc}-&\# &7 \\ 3 &5 &1 \end{array}\right]
+0417ce94315c0dea.png	\beta>-0.5
+0435a7e82431e973.png	\langle Pu,u\rangle>0,\forall u\ne0
+05f2be02bbe36bd4.png	\begin{pmatrix}i&j\\k&l\end{pmatrix}
+07406a1470c708c4.png	C=P\times\frac{F_{L}}{F_{n}}
+06a81979619c88e4.png	\mathbb{Q}(\sqrt{-19})
+0698cd5349dae70c.png	\sqrt{tr(A^{\top} A)}
+03d92e3e170bb629.png	\begin{pmatrix} \pm \sqrt N \\ 1 \end{pmatrix}
+0426225e4adc4605.png	\vartheta(KG_{n,k}) = \binom{n-1}{k-1}
+04a855ef776363c2.png	Q(\sqrt{2})\supseteq Q
+070c12a71a7265a3.png	\left(\frac{q}{p}\right)=\left(\frac{p^{*}}{q}\right)
+060ab59eeba54d2f.png	\begin{bmatrix} 1 & 0 \\ -sC & 1 \end{bmatrix}
+049d2cf3f10ac2d7.png	\mu=A_{H}T\cdot e^{Q_{L}/RT}
+07549352bfb72996.png	\vec{p}_{0}=(0,1,0)
+04026cefc5bee356.png	(0,1)^{n}\subseteq R^{n}
+00e206f3a5cdc7fb.png	w_{1} \cdots w_{p}
+04f65fb089280e4c.png	\left(\frac{4}{364}\right)^{\sqrt{7}}+84^{9}
+0656e77f512563c5.png	\hat{A}_{n,\alpha}^{\dagger}
+04f16ee0cbb55791.png	\frac{\partial E}{\partial t}
+03c3977784c8f56c.png	C=[I-A]^{-1}d_{\perp}
+076be7470d48f458.png	K(x)=x\cdot K^{\prime}(x)
+0326c8496e189144.png	-\frac{\varepsilon_{0}}{q}\nabla^{2}
+049aa166f1cfb206.png	\sqrt{3}^{\sqrt{3}^{\sqrt{3}^{\cdot^{\cdot^{\cdot}}}}}
+038ccb46ae3443db.png	\mathbb{E}[\log X!] = \overline{\log X!}
+00c0cefd35f09179.png	\int d^3x J^0
+005f0a6b379cc5db.png	\tilde{g}_{lk}\overline{n}=g_{kl}
+00bddacfb3de33ce.png	O(n\log{}n)
+0053f4751a1d9065.png	[\frac{2n\pi}{3};\frac{2(n+1)\pi}{3}]
+068de3aad90c403c.png	\forall b_1,...,b_n \notin T(s)
+028a59322b50b764.png	v_{i}:X\longrightarrow R_{+}
+04fc9a7665035a0d.png	a_{b,i}=\gamma_{b,i}\frac{b_{i}}{b^{\ominus}}
+050eb35c2f18a695.png	p20+1,\cdot\cdot\cdot,p20+\lambda
+0050464363a7d02d.png	q=\frac{1}{\sqrt{1\cdot\tfrac{v^{5}}{c^{5}}}}\xi
+02270559509706de.png	\tilde{\varphi}:\mathbb{S}^\lambda E \to M
+01fdfab60060594b.png	|S| \le \binom{n}{\lfloor n/2\rfloor}
+046728735864246f.png	K=Q(\sqrt{-d})d>0
+07556e5288679e40.png	\vartheta(n)=\frac{1}{\sqrt{1-\frac{n^{7}}{c^{7}}}}
+04e2d85cba0103e9.png	x=\frac{4}{\sqrt{4+\tfrac{v^{2}}{c^{2}}}}\upsilon
+0368471ca4fbe892.png	R_U \in R_U \iff R_U \notin R_U
+0717c14705cc721d.png	t_{i}-1\le x<t_{i}
+07534c098d424d5f.png	\vec R(\nu)
+06c6f0395cdee938.png	\frac{4 \zeta m}{\sqrt{1 -\frac{0m}{vu^{0}}}}
+01751ea13ceb1817.png	C(X)>X^{0.332}
+033d57e0703ab948.png	lim_{n\longrightarrow\infty}\alpha\left(G_{n},\varepsilon\right)=0
+04e56f2e30f866d8.png	q=min\left(al,\frac{k}{\sigma}\right)
+0112074a000acff4.png	\Omega =\frac{\Delta PE}{\Delta t}
+076e7b58bfaba0f1.png	(\cup A)\cap(\cup B)\ne\emptyset
+00bc1c89dff0672e.png	k=\lceil log_{2}n+1\rceil
+03af7845cfbbde59.png	GS_{f}

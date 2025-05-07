@@ -1,0 +1,100 @@
+00026ea02bde7a04.png	-\frac{d T_0}{dt} -\epsilon\frac{dT_1}{dt} = T_0^4+4T_0^3 T_1\epsilon - \epsilon
+00003a22b704282e.png	b_{n+1} = \max(a_n, b_n+1)
+00049d9271209efb.png	Az+B
+00009cc521976274.png	R_0 = \frac{{\langle k^2 \rangle}}{{\langle k \rangle}} - 1,
+00032092410c1677.png	\delta g_B = 2\pi\rho G H
+000738d0afa0adb1.png	\mathbf{j} = \frac{\mathrm{d}\mathbf{a}}{\mathrm{d}t} = \frac{\mathrm{d}^2\mathbf{v}}{\mathrm{d}t^2} = \frac{\mathrm{d}^3\mathbf{r}}{\mathrm{d}t^3}.
+00078ec9bfbf96e3.png	S = \int_0^T {dQ_{rev} \over T}
+0007c32e1880c9a4.png	R(X, L) = \bigoplus_{d=0}^\infty H^0(X, L^{\otimes d}).
+000e15155cba9feb.png	m^*\left(E, \hat{B}, k_{\hat{B}}\right) = \frac{\hbar^2}{2\pi} \cdot \frac{\partial}{\partial E} A\left(E, \hat{B}, k_{\hat{B}}\right)
+0005d575fc3397cb.png	A=UDV^*
+0000cbeca361b986.png	x! = \Gamma(x+1) = \int_0^\infty{\frac{t^x}{e^t}}\ dt
+0009b02280fd14c0.png	\Phi(X \times Y) = \Phi(X)\Phi(Y)
+0007766d3234cdbc.png	\pi((g^t)^{-1})f_z(x)= m(g,z)^{-1/2}f_{gz}(x).
+0001d203bdf3b07e.png	x=\frac{a^2-2}{2}, y=\frac{ab}{2}
+0004bce586182a21.png	\dot{f}(t) \to 0
+000133c1b3a5739e.png	E_2^{p,q}(X) = H^p(X;KU^q(pt))
+000440fb7f5d3094.png	A\geq 0.018
+0009a349d9752e67.png	\left(\frac{7}{\sqrt{10}},\ \frac{-5}{\sqrt{6}},\   \frac{1}{\sqrt{3}},\  \pm1\right)
+000bbf477610dad5.png	H(X_1, X_2)
+0009a534d839ffef.png	M(x) \cdot x^n = Q(x) \cdot x \cdot K'(x) + x \cdot R(x)
+000cddcb51302ae2.png	\sigma_\mathrm{applied}
+0006c633e31cb23a.png	\bigcup_{i\in I}C_i
+0002683ca298b741.png	\lambda=(4,3,1,1)
+000e33646eb22a80.png	\bar{\rho}_i \left( t_2 \right) = \frac{1}{x_{i+\frac{1}{2}} - x_{i-\frac{1}{2}}} \int_{x_{i-\frac{1}{2}}}^{x_{i+\frac{1}{2}}} \rho \left(x,t_2 \right)\, dx ,
+00015681597577ca.png	g(x) = G'(x) = 0
+0009005ebfd6abaa.png	k_x
+000bc1ef3c3ee9aa.png	Availability=
+0002aa1c9c2b291e.png	S_{14} = (i\gamma_5 \gamma_1)(i\gamma_5\gamma_4)
+0007c0cc361ef700.png	\int_a^b f(x,\alpha)\,dx=\varphi(\alpha),
+0007fad189c59cf8.png	\lim\operatorname{Pr}(A_n)=\operatorname{Pr}(A_\infty)
+0001e24e0cc47752.png	\mu(G){-}\{w\}
+000da0e972a64830.png	\mathcal{J}^n \subseteq V
+0005ec27f7221a95.png	\Delta \eta_{ij}
+000a192d6e72d170.png	\gamma_2=-0.0747
+000bc7ee546680fe.png	\mathbf{n}_k
+0004597d0d1b430f.png	\frac{61}{\frac{\frac{111155552221}{9.7805}}{999995555222}}
+000231fcc0808b6a.png	y \in \mathbb{Z}^*_n
+000918f80b681a7a.png	\frac{I}{2}
+0002f466c11dda20.png	b\cdot c =a
+000eb731bc645751.png	\operatorname{E}[X^pY^q] = \operatorname{E}[X^p] \; \operatorname{E}[Y^q] = \frac{ \Gamma(\alpha+p)}{\Gamma(\alpha)} \; \frac{ \Gamma(\beta+q)}{\Gamma(\beta)}
+0000d72d6d24c485.png	\operatorname{Hol}^0(\nabla)
+0000ec54f84b729e.png	\rho=\max\{|\lambda|\}\leq1
+00031fd3a9bbd70f.png	P_{\Delta x}(x)=P(x<X<x+\Delta\;x\mid\;X>x)=\frac{F_X(x+\Delta\;x)-F_X(x)}{(1-F_X(x))}
+00000e2b2e813760.png	\left[ \begin{matrix} n \\ n - 3 \end{matrix} \right]  = \sum_{i = 0}^{n - 1}\sum_{j = 0}^{i - 1}\sum_{k = 0}^{j - 1} ijk = \binom{n}{2} \binom{n}{4},
+00060721c2add647.png	(1-d)
+00083308cce64627.png	\frac{\Phi_{G}}{m}
+000a981b892ab8d1.png	P_c = N_0 R P_S P_t P_R P_g
+00032e42d3968c35.png	~~~ n_2\sigma_{\rm e}(\omega) v(\omega)D(\omega)+n_2 a(\omega)= n_1\sigma_{\rm a}(\omega) v(\omega)D(\omega) ~~~~~~~~~~~~~~~{\rm (balance)}
+00098463d5ada4bd.png	do(a,s)
+0009e82c62c2aaf4.png	\pi^{2k}
+0003f2b706b94e79.png	d_{FG}=d_F+d_G.
+000bec6751692179.png	F = \tfrac{1}{4} + \left(\tfrac{1}{4}\right)^2 + \left(\tfrac{1}{4}\right)^3 + \left(\tfrac{1}{4}\right)^4 + \cdots=\frac{\frac{1}{4}}{1-\frac{1}{4}}=\tfrac{1}{3}.
+0005e13622983f76.png	\langle \nabla_wf,G\rangle_{\mathcal{H}(E)} = \langle f,\nabla_w^*G\rangle_{\mathcal{H}(V)} \quad \text{ for all } f\in \mathcal{H}(V), G\in \mathcal{H}(E).
+0001721306e6f1df.png	\tan(-\theta) = -\tan \theta
+000d657eba4141ca.png	\iota_{\rho(\xi)} \omega = d H_\xi
+000b80a1a1f5a854.png	[I_R] = -\sum_{i=1}^n m_i[r_i-R][r_i-R],
+000cff6e9b8d4939.png	\varphi(x \alpha, y \beta) = \sigma(\alpha) \, \varphi(x, y) \, \beta .
+000dd1d7b7d9ea40.png	\frac{\frac{\frac{100000000}{3.064879951}-10000000000}{\frac{105.8744494}{28}}}{32}
+00070574bf81e8f6.png	\frac{z}{22288226611}
+000ec7031be06d31.png	p\mathbb{N}+b
+00062af9cb5101f5.png	\Rightarrow \frac{-\ln x}{3} = W\left(\frac{-1}{3}\right)
+0008be2f445b2bfb.png	\lambda \mathbf{I} \gg \mathbf{J}^\mathsf{T}\mathbf{WJ}, \  {\Delta \boldsymbol \beta} \approx \frac 1 \lambda \mathbf{J}^\mathsf{T}\mathbf{W}\  \Delta \mathbf{y}.
+000269ab4b30fcb0.png	\frac{8.243752}{\frac{10000000}{54.536-111555556688}*7.7095}
+0000baa17488cf00.png	(u+v)/(1+(uv/c^2))
+00040c7f0ccce622.png	U \times X
+000ef5e38715a9bc.png	\xi(B_1),\ldots,\xi(B_n)
+0000d71cda4329a6.png	\displaystyle f(x)=\sum_{k=1}^\infty \frac{\sin(2^k x)}{\sqrt{2}^k}
+00006210bcd6c975.png	\hat{\mathbf{q}} =q_i\mathbf{i}+q_j\mathbf{j}+q_k\mathbf{k}+q_r = \begin{bmatrix} q_i \\ q_j \\ q_k \\ q_r \end{bmatrix}
+000b9a9b2f830aa9.png	\eta_0(\tilde{x},\tilde{t})=\mathfrak{Re}(\hat{\eta}_0(\tilde{x})e^{-it})
+000bed2d2f2e43d8.png	\alpha_p(X) = \{ x \in \mathcal{O}(X) : x^p = 0 \}
+000a48db4e4d6adc.png	\textbf{u}, \textbf{v},
+000a5eb4dbb0a626.png	\hat{\mathbf x} = R_1^{-1} \left(Q_1^\textsf{T} \mathbf{b}\right)
+0007b4476b305063.png	999229999966
+000953b97f720153.png	\to \forall v \forall l ((v, l) \in  M \land C(l)) \to v \in S
+00029f64ce4df82b.png	\vec{A}=\begin{bmatrix}A_x\\A_y\\A_z\\\end{bmatrix}
+0006d70f6ba76817.png	f = 1 - \exp \left (- \frac{ \pi\ }{3} \dot NG^3t^4 \right ) \,\!
+0005bd3dd973f475.png	\sigma(i) = i
+000b905c653fd48d.png	+b
+000a259db55c92df.png	B = \operatorname{core}B.
+000cd9b275fc6016.png	SR = 1
+000e643a429dba48.png	\nabla_{\mathfrak{u}} g(x) := a(x)\, g(x) + \big(D_u g \big)(x)
+000d8f307d81395e.png	(Tf)(x) = \int_0^x f(t)g(t) \, \mathrm{d} t.
+0004f177e981e3ae.png	\neg^\mathsf{T}
+0005ccb2789b30f8.png	P^\mu = p^\mu + q A^\mu.
+0003edb353f2f110.png	F_{+}(x) - F_{-}(x) = f(x)
+000cc63ea16feb7c.png	(X,Y,1)
+000a7a5a694616a5.png	\hat{\psi}
+000d6170688670d0.png	\mathbf Z^n \times \mu_R
+0002407f992e8307.png	\mu^*=k\mu
+0000e31e33be1430.png	\tau_1=\tfrac{L/2}{c+u}; \tau_2=\tfrac{L/2}{c-u}
+00097e7e3c9f1f9b.png	C'\Big(\beta(\tilde{\sigma}(\widehat{\sigma}))\Big)\beta'(\tilde{\sigma}(\widehat{\sigma}))\tilde{\sigma}'(\widehat{\sigma})=C'\Big(\beta(\phi(\widehat{\sigma}))\Big)\beta'(\phi(\widehat{\sigma}))\phi'(\widehat{\sigma});\,\!
+000e45dc2fdce340.png	\int (\sin(x)+1)dx=\int \sin(x)dx + \int 1dx=-\cos(x)+x+C
+000dbc279ea73041.png	\Delta W_{n} = W_{\tau_{n + 1}} - W_{\tau_{n}}
+000b7c3278aa77bf.png	x = \frac{E}{\omega_c B}(1-\cos(\omega_c t)) \!
+0005f2bd440af609.png	\operatorname{Aut}(V)
+00094d55c6b7cf9e.png	u^* \frac{\partial u^*}{\partial s^*} + v^* \frac{\partial u^*}{\partial y^*} =\left[ \frac{g \beta(T_s - T_0)L_c^{3}}{\nu^2} \right] \frac{T^*}{\mathrm{Re}_L^{2}}+\frac{1}{\mathrm{Re}_L} \frac{\partial^2 u^*}{\partial {y^*}^2}
+00037f1a6f22b509.png	\frac{z+550044444444}{10000000}
+0002459d7b2998f7.png	s(\lambda),\,\,\lambda\in\sigma(A),
+00062ab9cb5926f2.png	\frac{889994446666}{\frac{\frac{666555555222}{131}}{555550000008}\cdot\frac{46.19}{111333334466}*\frac{8}{a}}
+0001e735aa74f8bc.png	O_{ij}

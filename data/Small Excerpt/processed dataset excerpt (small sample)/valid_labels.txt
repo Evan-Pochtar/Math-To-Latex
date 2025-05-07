@@ -1,0 +1,100 @@
+00e8bf4cde24f874.png	;u
+01054bf06792066a.png	\sum_{0\leq{k}\leq{n}}\binom nk = 2^n
+00b45d3bd1d56ead.png	\int v_{i}dm
+0101e1e2b84d7837.png	H_{i}=\langle h_{i},G^{\prime}\rangle
+00997a3afd226540.png	r=a-|n|\left\lfloor\frac{a}{\left|n\right|}\right\rfloor
+002651244bc93554.png	\int_A P_A~dA = 1
+0005d0be8e507b24.png	\overline{z}=1-i\sqrt{\nu}
+00ac5cd85e462376.png	\forall u(wR_{i}u\Rightarrow u\Vdash A)
+00253e181f0200ab.png	T = \begin{pmatrix} 1 & 0 \\ 1 & 0 \end{pmatrix}
+00146a32fdab9e8e.png	\frac{d^2x}{dt^2}
+013f565c7a547d0b.png	\mu_G(H_1,H_2)=(-1)^{k}p^{\binom{k}{2}}
+007a639f47c479d0.png	\sqrt[3]z
+014be054e72e64fd.png	\int_{1}^{0}\frac{dt}{t}=-\infty
+00061be0501a1fa8.png	Q:=\bigcup_{\sigma\in\sigma(T_{0})}Q_{\sigma}
+016af79ba8f2cca8.png	1.3\frac{a}{d}\sqrt{n}
+00184588166a4dac.png	\frac{dP}{d\tau}
+01927fe0f1d3c23d.png	\begin{pmatrix} 0 & 1 \\ -1 & 0\\ \end{pmatrix}
+01998b624db95830.png	\hat\beta = (\overline{y/x})
+0198a68035125b5a.png	G
+01468b08b993df97.png	lim_{\lambda\in\Lambda}\|ae_{\lambda}-a\|\rightarrow0
+01529aa0572f4897.png	R_{x}=(R_{2}/R_{1})\cdot R_{3}
+008d3f60da3e972b.png	\binom{n+1}{3}+1
+009183c575123315.png	\prod_{i = 1}^n
+017b290258802288.png	A_{\mu}\rightarrow A_{\mu}+\partial_{\mu}\phi(x)
+00b2a1efdeae0ced.png	H_n(\underline q, \underline x)
+0155c0fe01231b04.png	\tilde{X} \in T_e E
+0047f70eafca2534.png	\begin{bmatrix}a \\b \\c \end{bmatrix}
+0019bb8e97507f8e.png	\int x \cdot dx
+0013be3abc070fb7.png	\frac{1}{\sqrt{d}_{u}}
+001f0f96215e2d84.png	{\tilde{C}}_{8}
+0115ad5ee12ad7d4.png	\binom{[n]}1
+00c4f34b460c7933.png	\hat{f}(k)
+01058e873802b3d2.png	\xi_{[t]}=(\xi_{1},...,\xi_{t})
+018f456e217f1301.png	log\hat{\lambda}\approx Z\sqrt{4/D}
+017a79eea7fa5f63.png	(l_{1}+l_{2})^{\theta}=l_{1}^{\theta}+l_{2}^{\theta}
+0154666b7b559c17.png	a\cdot(pb)\not=pa\cdot b
+0067440924b60b2b.png	[g^{ij}]=\frac{1}{g}\frac{\partial g}{\partial g_{ij}}
+0023e88388577dc1.png	V = \begin{pmatrix} 0&1\\ 1&0 \end{pmatrix}
+000453d57c3d334d.png	\int_E f(x) \mu(dx)
+018b8fb309ce7af2.png	d\overline{v}=-\frac{e\cdot\overline{E}}{m}dt
+002b6a98000765fb.png	\frac{\partial\varphi}{\partial t}(x,t)=F(\varphi).
+00ed2238753c9850.png	G,\overline{G},\tilde{G}
+00000b332dcd6fe5.png	\binom{j}{m+1}
+00a32b900a4aa32f.png	\begin{pmatrix}0\\1\end{pmatrix}
+0114d751a72fd56b.png	y=c_{1}e^{x}+xe^{x}
+012f1f23d40a2995.png	\int_\gamma f(z) dz
+006b9bfab1127fac.png	X\frac{d}{dX}
+003169384315282b.png	\int x^{s}\phi(x)dx
+0025484cf71c8ab7.png	F
+00f546829c405447.png	[K^{j},P^{k}]=i\delta^{jk}H
+006631d6baa51d31.png	V=|a\cdot(b\times c)|
+016e9b0a2882071d.png	x=\sqrt[3]{u}+\sqrt[3]{v}
+011f633d896bd07b.png	p\in Z(g^{*})
+0040a950663bd899.png	pz\overline{z} + gz + \overline{gz} = q
+00e6d1340b0b48b7.png	\binom{k-1}{D-1}
+0005ea8e21185d36.png	S=\int_M B F
+00e00364101abad0.png	\begin{bmatrix} a & b \\ c & d \\ \end{bmatrix}
+00235ec3dee919dd.png	\int_{0}^{\infty}\frac{sin(x)}{x}dx
+009f7b727b467490.png	\frac{\pi}{2}(i-1)\le v_{i}<\frac{\pi}{2}i
+00b2ce18a5aa30a6.png	\sum_{i=1}^{k}\sum_{w\in V}f_{i}(s_{i},w)
+01844e9baa82698c.png	\rho(r)\sim e^{-2Z_{\alpha}r}
+01470b33b8c78f3f.png	X:=\bigcup_{k=1}^{m}3B_{j_{k}}
+01992bb808919d17.png	1^{\prime}s
+009fc6849e2b7909.png	|\omega_{i}|=q^{1/2}
+014d90d483380e66.png	\langle\psi^{jk}|\psi_{lm}\rangle=\delta_{jl}\delta_{km}
+019d0ab8b91ae217.png	L_{X}dz=f(z)dz
+01a0415f932322d3.png	\rho(\nu)d\nu=\frac{u(\nu)d\nu}{V}
+00622d73c8739bd8.png	\begin{bmatrix} A & U \\ V & C \end{bmatrix}
+012cebd6f0be97bb.png	X_{i}=(Y|Y>K)
+004466873ec97648.png	o_{n}(R)
+00f3fa64f4c2235f.png	(X,Y,Z,aZ^{4})
+0178bf7cceb64473.png	L>>(x+a/2)
+01a595d8d764a7b7.png	f_{c}=\frac{1}{2\pi C(R+S)}
+00c94cb75d8df0bf.png	\int^{c \in C} F(c, c)
+007a46e2dd19428e.png	4^{-N}\binom{2N}N \approx \frac1{\sqrt{\pi N}}
+012c517a05e2c2d4.png	\int x^k d\mu(x) = m_k
+01a0b54b759ab60d.png	3k+1=2^{a}k^{\prime}
+006fb32b84a99137.png	\begin{bmatrix} 1 & 1 \\ 0 & 1 \end{bmatrix}
+011bc2c4d3e15714.png	T_0=2\pi\sqrt{l \over g}
+00ee5698f103452f.png	F=Mg=\dot{m}\Delta v
+013b7229b727f967.png	a\notin A
+008f588f1c25ce16.png	v_y \sqrt{v_x^2 +v_y^2}
+00c22b6f5407cf2d.png	K_{h_{\lambda}}(X_{0},X)
+00245713d08b4f1a.png	R=\int_0^\tau X(s) ds
+003921302c543b2c.png	\frac{d^2 u}{dx^2} -u =0
+010963a06d1d5a79.png	\tilde\gamma(0) = p
+017c4e5970880570.png	2, \sqrt{5}, \sqrt{6}, 3
+011a66ef71133c7d.png	c\notin A
+002c168eb422aab9.png	10^{-12}W/\sqrt{Hz}
+0068bc1f523b42d8.png	P(e^{\prime})=\{a_{1},b_{4}\}
+018fb881d2eef21d.png	F_{r}=\frac{v}{\sqrt{g\frac{A}{B}}}
+018f8eb18419d5bb.png	\tilde v
+01ab63ab784befeb.png	C[x,y]/(x,y)\cong C
+00d3c94d3fc0dd27.png	\arctan\sqrt{2}=54.7^\circ
+0075591d8b2ba4d2.png	F_{x}[f(x)]
+01a33dcbdaf5d858.png	\hat{\theta}=\hat{z}
+00a58f479a9d95b9.png	S_{0}+h\nu_{ex}\rightarrow S_{1}
+001f0c3d8940f546.png	\frac{dC_U}{dC_W}
+008004981b5b3ee1.png	\tilde E = E \times \mathbb{Z}_{n}
+018f48ac8fe4bd53.png	|0|<|1|+|-2|

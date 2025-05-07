@@ -1,0 +1,100 @@
+01292cf19c2c9c7c.png	u=1+l^{2}+m^{2}
+010d4fea2361f01f.png	Inj(M_{i})<\varepsilon(n)
+03277de2f80a8aaf.png	Y_{n+1}=I-XY_{n}
+0052b8e13b5f4a36.png	w(\neg\theta)=F_{\neg}(w(\theta))
+00386113d577085b.png	\langle a_{0},a_{1},...\rangle\in R^{\omega}
+01453872d3d2afe5.png	=J+\varepsilon_{0}\frac{\partial E}{\partial t}
+01cf085d26abe325.png	G^{p^{k}}=\{g^{p^{k}}|g\in G\}
+02da6f52e30f674d.png	2^{k}t_{0}
+030373f9d3edac3b.png	\frac{R_{U}}{r_{e}}\approx\frac{r_{H}}{r_{e}}\approx10^{42}
+013a32b84ce6252f.png	\{L(u,v):u,v\in X\}
+00fee560e6c9af79.png	\sqrt{1-\omega^{2}r_{0}^{2}}
+02b1dc6d4efd493a.png	\Omega\left(R\right)=cP\left(R\right)
+030ea5646116a251.png	M_{2}=P_{1}^{\prime}|P_{2}|...
+030a0f18b6fcb87b.png	\pi(x)-\pi(\frac{x}{2})\ge1
+00ba90fe7f71d8c6.png	\Omega((logn)/n^{2})
+0247a5d7e1002d66.png	|V_{0}|\gg E_{f}
+01e4c8973307a964.png	|g,n\rangle\rightarrow|e,n-1\rangle
+006badbfc63bbd21.png	p=\left(p_{x},p_{y},p_{z}\right)
+000a4e8ca49c5a1c.png	(x-y)/sqrt(2)
+0017bb5822bcba69.png	P=P(C(Z))
+01752f0f5fba0225.png	L=\begin{pmatrix}1&0\\ \frac{-1}{f}&1\end{pmatrix}
+01d54b93c127e89c.png	F^{0}[f]=f
+009fb93aab47d6f5.png	\{f_{X}(\cdot;\theta)|\theta\in\Theta\}
+01e6c79f4d27bc54.png	N(t)=N_{0}2^{-t/t_{1/2}}
+02b7060b95d998eb.png	\frac{}{}|I|>I_{0}
+00eaf4f2d3d20bb1.png	B=ln(-b)
+0255dc5b14261907.png	1+x+\frac{x^{2}}{2}
+032278982233fefa.png	L_{r},L_{t},L_{L}/10
+00915f0ffe17930e.png	(g^{a}\mod p,g,p)
+0090db2a639b5c98.png	S_{ijk}\rightarrow S_{ij}(\omega_{k})
+015e012d8baa97f3.png	\epsilon,\delta,K>0
+002ae6d5dd4173e4.png	x_{1}-x_{2}+x_{0}=0
+0199f657babdf636.png	\prod_{p}p/(p-1)
+009d124a50399bba.png	J_{i}=\sum_{j}L_{ij}\frac{\partial F_{j}}{\partial x_{j}}
+029b5da0999d4903.png	\omega_{\{(k,i),(k^{\prime},i^{\prime}),(k^{\prime\prime},i^{\prime\prime})\}}
+016a39f81ff20b8d.png	\frac{\partial}{\partial\overline{z}}w(z)=0
+0204f1101b3f4033.png	(x,y,\theta,\kappa,\kappa^{\prime})
+01859fc130dc9008.png	(++++)
+02c39c1be9d660b7.png	1-4\pi r^{3}/3V
+025f51bee0e59494.png	g=g_{-1}\oplus g_{0}\oplus g_{1}
+003ca9082c7047d3.png	\partial_{i}f=\frac{\partial f}{\partial\xi^{i}}:=\frac{\partial\overline{f}}{\partial\xi^{i}}
+022be26e0a8ab535.png	|\psi\rangle=\sum_{n=0}^{\infty}a_{n}|\psi_{n}\rangle
+032360b882783120.png	\kappa_{2}=\mu_{2}^{\prime}-{\mu_{1}^{\prime}}^{2}
+02894b4ff1ee6c7b.png	0/x=0,x/x=1
+0235a447c15a24d7.png	nlog_{2}n-\frac{n}{ln2}
+0082d4aa943b9f8c.png	\left|\frac{d^{2}y}{dx^{2}}\right|\approx\frac{1}{R}
+02ace78dfc726867.png	2sin(\theta/2)r
+029decc2d74fd082.png	abca^{-1}b^{-1}d\sim?
+00fcddfee1ebfee6.png	2sin(x/2)
+02657f6bba1d2004.png	f_{a}(bx)=f_{f_{a}(b)}(x)
+00ad7566b9f1d872.png	\dot{x}(t)=f(x(t))
+01cdd808862eab64.png	T^{t}:=S^{1}\times\cdot\cdot\cdot\times S^{1}
+02c9daf282f5a1e3.png	\sum_{x\in\{0,1\}^{T}}|x\rangle|f(x)\rangle
+01d2f97f90ed79e6.png	m\equiv\frac{RF_{,R}}{F}
+01d90fce29b20f64.png	A\models_{X}^{+}Rt_{1}...t_{n}
+0121d7fdad59c8ab.png	\Leftrightarrow|PA|^{2}=9|PB|^{2}
+0272a794109d5d2d.png	P_{F}=\sqrt{P_{P}\cdot P_{L}}
+01a53ae1e3a9b918.png	E:R^{n}\rightarrow T_{p}M
+010d0f9e951a7a44.png	x_{i}^{\prime}\equiv\frac{1}{1+e^{-\frac{x_{i}-\mu_{i}}{\sigma_{i}}}}
+02de91b624143438.png	y^{2}=x^{3}-n^{2}x
+0325d90612c71772.png	\hat{\Sigma}_{j,/j}
+0316d949cd776194.png	X_{k}=p(e^{2\pi i\frac{k}{2^{n}}})
+0083f66ddd05c46c.png	m_{i,j}=x^{i}\cdot x^{j}
+011f1f41eb55b661.png	\left(\frac{lnN}{N}\right)\rightarrow0
+01b74db41e479782.png	\vec{x}\in S
+02c6f6dea91a2a06.png	(RU^{2}D^{-1}BD^{-1})
+024279a4b8037bae.png	f(y)=2+2y+y^{2}
+0111fa141bb73b48.png	-a^{n}u[-n-1]
+01917677eaf160bb.png	Pr(s|I)\propto1/s
+02248037ee4a5528.png	(h,h(\hat{k}),h(\hat{l}))
+01f3445177808c3d.png	X_{2i}\varepsilon R^{Q}
+01d2b56291c7ffdd.png	N_{i}\overline{r_{i}}
+028cf1f0507df703.png	U_{i}(I)=I_{L_{i}}
+014f7412fa06f5c0.png	\|L_{x}\|_{(l^{p})^{*}}=\|x\|_{q}
+0276c02c9b9222e9.png	f^{-1}(y)=\sqrt{y}
+022b4cfb5a5a3856.png	d^{\prime}=V_{ud}d+V_{us}s
+004fc8d3f626f1d9.png	\delta_{j,j_{1}}\delta_{m,m_{1}}
+026fd85034106735.png	T^{-1}=\left(T_{b}^{a}\right)^{-1}
+004c9413be3ff1be.png	\langle A\rangle_{\psi}=\|A\psi\|^{2}
+028414d36ea98262.png	\Delta b/b^{2}\approx\Delta f/f^{2}
+01c37bbe7ea55c56.png	T+ATT=1+E
+02aced0c052805c6.png	1/x\approx1-x
+023a443f36a838ff.png	\nabla_{\vec{\theta}}=D_{d}\nabla
+00c46c9b07b39bb7.png	l_{n}=kl_{n}\cdot\frac{b_{n}}{b_{a}}\cdot\frac{s_{n}}{s_{a}}
+01ab618a2350036f.png	f_{n}\rightarrow\chi_{[1,2)}
+0114e881d8b22bbb.png	(\Lambda(A):A\in B_{b}(S))
+00db5331b85f4d47.png	N=\left|V\right|
+001083e26028da36.png	\nabla I=(I_{x},I_{y})
+00d4fc6636cbf2d9.png	\tilde{g}_{n}=\begin{bmatrix}g_{n}\\ \gamma_{n}\end{bmatrix}
+01d12458811a5a38.png	\Omega=arg(-z_{2},z_{1})
+02720f6a67e8bc09.png	L_{10}=(C/P)^{p}
+01d4d9a9dc145333.png	K_{m}=\frac{1}{2}(k_{1}+k_{2})
+01a2f3186b7e33e1.png	(2n,n,\lambda,1)
+01b552b8a037ab13.png	T_{pq}(e_{p}\otimes e_{q})
+0333d9584ff7c0d0.png	f^{-1}(x)=\frac{1}{f(x)}
+02dcdb815d18cdf1.png	f(x_{t},t)=x_{t}e^{\theta t}
+02d5b5f98ac5fbd2.png	f_{z}(x)=e^{ix^{t}Zx/2}
+00692074bbc0f678.png	t\longrightarrow F(t,t_{0},x)
+0175c1fb5814dc11.png	\Omega=\sqrt{|\chi_{g,e}|^{2}+\delta^{2}}
+0180366e774d93be.png	\Omega(eg)=g^{-1}\Omega(e)g
